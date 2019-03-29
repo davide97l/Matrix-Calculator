@@ -2,4 +2,4 @@
 
 A matrix calculator in C++ language exploiting Qt graphic library and Mvc (model-control-view) pattern.
 
-Per la compilazione usare la sequenza di comandi:  qmake -project ⇒ qmake ⇒ make
+To compile use the command sequence:  qmake -project ⇒ qmake ⇒ make
